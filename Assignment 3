@@ -4,11 +4,11 @@ Assignment 3
 
 37. if not (Value 1 < Value2) then statement 1 else statement 2
 
-38. Yes it will. 
+38. No it wont. DeMorgans law wouldnt allow for it to work. 
 
 61. Percival is the truth teller. Llewellyn is the liar. This is because no matter what scenario you give them what Percival is always true.
 
-62.Merlin would be the liar. He is the liar because there can’t be two truth tellers. 
+62. Merlin is a truthteller. This means that meridth is also a truthteller
 
 63. They’re both truth tellers, because if Rothwold is liar the other is telling the truth however, if he is lying Grymlin would be telling the truth. 
 
