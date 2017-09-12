@@ -1,0 +1,43 @@
+1:
+
+p->q   and    q' -> p’
+
+p’ v q and q v p’   implication 
+
+p’ v q and p’ v q    communitive 
+
+
+
+2:
+
+(p-> r) ^(q->r) <-> (pvq) ->r
+
+(p’vr)^(q’vr) <-> (pvq)’vr      implication
+
+(p’vr)^(q’vr) <-> (p’vr)^(q’vr)    distribution 
+
+
+
+3:
+
+(p^q’) and q -> p’
+
+p’ v q’ and q-> p’  DeMorgan’s
+
+p’ v q’ and q’ v p’ implication
+
+p’ v q’ and p’ v q’  communitve
+
+
+
+4:
+
+p’ -> q    and (p’^q’)’
+
+p”v q and (p’^q’)’   implication 
+
+p v q  and (p’^q’)’  Double Negative
+
+p v q and p” v q” DeMorgan’s
+
+p v q and p v q  double negative 
