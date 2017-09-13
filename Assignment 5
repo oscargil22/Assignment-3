@@ -1,0 +1,33 @@
+18. 
+a. xP(x)
+b. x[L(x) -> R(x)]
+c. x[L(x) -> R(x)
+d. x[L(x) -> y(Z(y) -> E(x,y))]
+e. x[L(x) -> y(Z(y) -> E(x,y))]
+
+25. 
+a) John is handsome and Kathy loves John
+b) All men are handsome
+c) All women love all handsome men
+d) Some handsome men love Kathy
+e) Some pretty women love handsome men
+f) John loves all pretty women
+
+34.
+A(x) x is a car
+B(x) x is a plane
+
+a.	For some cars and for some planes there are some car-planes
+
+P(x,y) x is smaller than y
+
+b.	All cars are smaller than some people such that some cars are smaller than all people
+
+P(x) x is rain
+Q(x) x is clouds
+
+c.	For all rain, there are clouds such that for some rain there are all clouds
+
+A(x) x is cat
+
+d.	All animals are not cats if and only if not all animals are not cats
